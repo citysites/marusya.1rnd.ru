@@ -11,5 +11,5 @@ Disallow: /*_escaped_fragment_*
 Disallow:
 
 
-Sitemap: https://marusya1rnd.ru/sitemap.xml
-Host: https://marusya1rnd.ru
+Sitemap: https://marusya.1rnd.ru/sitemap.xml
+Host: https://marusya.1rnd.ru
